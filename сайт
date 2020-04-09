@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Liliya Polikarpova — официальный сайт</title>
+	<style type="text/css">
+	html {
+		height: 100%;
+	}
+	body {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		height: 100%;
+	}
+	h1, h2 {
+		font-family: Arial;
+	}
+	h1 {
+		color: #4b59c3;
+	}
+	</style>
+</head>
+<body>
+	<h1>Liliya Polikarpova</h1>
+	<h2>assistant engineer</h2>
+</body>
+</html>
