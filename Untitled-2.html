@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <title>Сайт начинающего разработчика</title>
+   <link rel="stylesheet" href="style.css">
+   <meta name="viewport" content="width=device-width, initial-scale=0.5">
+   
+  </head>
+  <body>
+    <header>
+      <p>Блог</p>
+      <nav>
+       <button><a href="Haupt.html">home</a> </button>
+       <button><a href="Untitled-1.html">about me</a></button>
+       <button><a href="Untitled-3.html">music</a></button>
+       <!--<a><input href="Haupt.html" type ="button" value=" На главную"> </a>-->
+
+      </nav>
+      <link rel="stylesheet" href="dist/css/lightbox.css"> 
+      <style>
+      .container {
+         margin: 50px 10px;
+          }
+      .container img {
+              width:200px;
+              padding:10px;
+              transition:0.5s;
+          }
+          .container img:hover {
+              transform:scale(1.1);
+          }
+      </style>
+    </header>
+    <main>
+      <article>
+        <h1> Галерея путешественника</h1>
+        <p> При нажатии на миниатюру, открывается крупное изображение</p>
+        <p>
+            <div class="container">
+          <a href="Photos\Minsk.JPG" data-lightbox="test"><img src="Photos\Minsk.JPG" alt="Фоточка Беларуси" width="200" height="250"></a>
+          <a href="Photos\Saint Petersburg.JPG" data-lightbox="test"><img src="Photos\Saint Petersburg.JPG" alt="Фоточка Питера" width="200" height="250"></a>
+          <a href="Photos\Moscow.JPG" data-lightbox="test"><img src="Photos\Moscow.JPG" alt="Фоточка Москвы" width="200" height="250"></a>
+          <a href="Photos\sea.JPG" data-lightbox="test"><img src="Photos\sea.JPG" alt="Фоточка Чёрного моря" width="200" height="250"></a>
+          <a href="Photos\i.JPG" data-lightbox="test"><img src="Photos\i.JPG" alt="Фоточка меня" width="200" height="250"></a>
+          <a href="Photos\Munchen.JPG" data-lightbox="test"><img src="Photos\Munchen.JPG" alt="Фоточка Мюнхена" width="200" height="250"></a>
+          <a href="Photos\dorf.JPG" data-lightbox="test"><img src="Photos\dorf.JPG" alt="Фоточка деревни" width="200" height="250"></a>
+          <a href="Photos\Yalta.JPG" data-lightbox="test"><img src="Photos\Yalta.JPG" alt="Фоточка Крыма" width="200" height="250"></a>
+          <a href="Photos\Tambov.JPG" data-lightbox="test"><img src="Photos\Tambov.JPG" alt="Фоточка Тамбова" width="200" height="250"></a>
+          </div>
+          <script src="dist/js/lightbox-plus-jquery.js"></script>
+        </p>
+      </article>
+      <aside>
+        Тут могла быть Ваша реклама
+      </aside>
+    </main>
+    <footer>
+        <a href="https://www.facebook.com/liliya.polikarpova"><img src="Photos\fb.png" alt="facebook" width="20" height="20"></a>
+        <a href="https://github.com/liliyaa-p"><img src="Photos\github.jpg" alt="github" width="20" height="20"></a>
+        <a href="https://www.instagram.com/liliyaa_p/"><img src="Photos\instagram.png" alt="instagram" width="20" height="20"></a></br>
+     LP® 
+    </footer>
+  </body>
+</html>

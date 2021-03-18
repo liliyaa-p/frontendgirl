@@ -1,0 +1,42 @@
+body {
+    /*padding: 110px 30px;
+    font-size: 14px;
+    line-height: 22px;
+    font-family: "Courier", serif;
+    justify-content: space-around;
+    color: #222222;
+    background-color: rgb(177, 238, 235);
+    text-align: center;*/
+   padding: 70px 30px;
+   margin: auto;
+    background-color: rgb(177, 238, 235);
+    font-family: "Courier", serif;
+    /*display: flex;
+    justify-content: space-around;*/
+    text-align: center;
+      }
+      
+ h1 {
+    font-size: 32px;
+    line-height: normal;
+    text-align: center;
+  }
+
+main img {
+border-radius: 100px;
+border: 5px solid rgb(8, 104, 194);
+text-align: center;
+}
+
+
+aside {
+    margin: 70px;
+    text-align: center;
+    }
+
+  footer {
+    text-align: center;
+    font-size: 17px;
+  }
+ 
+
