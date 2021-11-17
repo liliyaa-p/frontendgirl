@@ -2,9 +2,10 @@ body {
     
    padding: 70px 30px;
    margin: auto;
-    background-color: rgb(177, 238, 235);
-    font-family: "Courier", serif;
-    text-align: center;
+/*     background-color: rgb(177, 238, 235); */
+   background-color: lightslategray;
+   font-family: "Courier", serif;
+   text-align: center;
       }
       
  h1 {
