@@ -7,7 +7,8 @@ body {
   justify-content: space-around;
   flex-wrap: wrap;
   color: #222222;
-  background-color: rgb(177, 238, 235);
+/*   background-color: rgb(177, 238, 235); */
+  background-color: lightslategray;
   margin-left: auto;
   margin-right: auto;
   width: 50em;
