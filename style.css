@@ -61,8 +61,7 @@ time {
 
 a[href] {
   color: #0099ef;
-  text-decoration-line: underline;
-}
+ }
 
 .days {
   list-style: none;
@@ -75,11 +74,6 @@ figure {
   
 }
 
-/*figure img {
-  vertical-align: middle;
-  border: 8px solid  rgb(230, 193, 235);
- 
-}*/
 
 figcaption {
   width: 416px;
@@ -128,9 +122,3 @@ padding: 0;
 footer img {
 border-radius:5px
 }
-
-button a {
-text-decoration: none;
-}
-
-
