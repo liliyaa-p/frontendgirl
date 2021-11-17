@@ -135,5 +135,6 @@ nav button {
   padding: 7px;
   width: -webkit-fill-available;
   border-radius: 5px;
-  border: none;
+  cursor: pointer;
+  text-transform: uppercase;
 }
