@@ -1,18 +1,9 @@
 body {
-    /*padding: 110px 30px;
-    font-size: 14px;
-    line-height: 22px;
-    font-family: "Courier", serif;
-    justify-content: space-around;
-    color: #222222;
-    background-color: rgb(177, 238, 235);
-    text-align: center;*/
+    
    padding: 70px 30px;
    margin: auto;
     background-color: rgb(177, 238, 235);
     font-family: "Courier", serif;
-    /*display: flex;
-    justify-content: space-around;*/
     text-align: center;
       }
       
