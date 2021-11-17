@@ -16,7 +16,8 @@ body {
 
 main img {
 border-radius: 100px;
-border: 5px solid rgb(8, 104, 194);
+/* border: 5px solid rgb(8, 104, 194); */
+    border: 5px solid gray;
 text-align: center;
 }
 
