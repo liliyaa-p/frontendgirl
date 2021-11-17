@@ -132,4 +132,8 @@ nav {
 
 nav button {
   margin-right: 10px;
+  adding: 7px;
+  width: -webkit-fill-available;
+  border-radius: 5px;
+  border: none;
 }
