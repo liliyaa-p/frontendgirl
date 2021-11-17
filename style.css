@@ -118,7 +118,8 @@ footer {
 }
 ul {
 padding: 0;
-    }
+margin: 0 100px;
+}
 
 footer img {
 border-radius:5px;
