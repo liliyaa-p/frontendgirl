@@ -42,3 +42,6 @@ aside {
 border-radius:5px
 }
 
+button a {
+text-decoration: none;
+}
